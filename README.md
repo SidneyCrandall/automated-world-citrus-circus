@@ -1,5 +1,16 @@
 # Automating the World
 
+Second group prject of Cohort 47. We were tasked with automating the HTML and CSS we had created back in Hello World. We, as a group, worked closely to create a fluid site for users to see information about a specific counrty that the developer had chosen. 
+
+## Contributers
+[Salma Crank](https://github.com/srcrank)
+
+[Micaela Colpi](https://github.com/micaelacolpi)
+
+[Bre Coach](https://github.com/Coachbre)
+
+[Laurel Morrison](https://github.com/LaurelMorrison)
+
 Your task in this group project is to use your newfound skills of automation, and rebuild your travel brochure site using objects, arrays, components, modules, CSS selectors, Flexbox, semantic HTML, and data providers.
 
 Each city, each landmark, and each famous citizen must be represented in application state as objects. This means that you will need multiple separate data providers, list components, and HTML representation components for each page.
